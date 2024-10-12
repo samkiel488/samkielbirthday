@@ -1,6 +1,6 @@
 // Show the alert message on page load
 window.onload = function() {
-    alert("Welcome! Kindly click on the reveal button to see what Ezekiel has prepared for you.");
+    alert("Welcome! Kindly click on Ok to see what Ezekiel has prepared for you.");
     document.getElementById("revealButton1").classList.remove("hidden");
 };
 
